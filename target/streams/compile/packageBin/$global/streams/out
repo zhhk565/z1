@@ -1,0 +1,35 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging D:\Software\Scala\projects\t1\target\scala-2.11\sparkexamples_2.11-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	load_p$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\load_p$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	load_p$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\load_p$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Util1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\Util1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mbr_dim.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\mbr_dim.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mbr_read.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\mbr_read.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mbr_read$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\mbr_read$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mbr_dim$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\mbr_dim$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Util1$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\Util1$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mbr_dim$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\mbr_dim$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mbr_read$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\mbr_read$$anonfun$main$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DJ.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\DJ.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mbr_read$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\mbr_read$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	load_p.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\load_p.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mbr_dim$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\mbr_dim$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mbr_read$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\mbr_read$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	mbr_dim$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  D:\Software\Scala\projects\t1\target\scala-2.11\classes\mbr_dim$$anonfun$main$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

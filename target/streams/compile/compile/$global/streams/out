@@ -1,0 +1,12 @@
+[0m[[0m[31merror[0m] [0m[0mD:\Software\Scala\projects\t1\src\main\scala-2.11\mbr1.scala:32:28: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String("seq1")[0m
+[0m[[0m[31merror[0m] [0m[0m required: Array[org.apache.hadoop.hive.ql.udf.generic.GenericUDF.DeferredObject][0m
+[0m[[0m[31merror[0m] [0m[0m  var cnt1 =test1.evaluate("seq1")[0m
+[0m[[0m[31merror[0m] [0m[0m                           ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Software\Scala\projects\t1\src\main\scala-2.11\mbr1.scala:40:5: not found: value current[0m
+[0m[[0m[31merror[0m] [0m[0m    current += 1;[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\Software\Scala\projects\t1\src\main\scala-2.11\mbr1.scala:41:14: not found: value current[0m
+[0m[[0m[31merror[0m] [0m[0m     return  current [0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
